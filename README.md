@@ -25,5 +25,5 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 ![](./screenshots/matched.png)
 
 - When a player turns over two cards that do not match, those cards are turned face down again (in the same position).
-![](./screenshots/not matched.png)
-![](./screenshots/back to original.png)
+![](./screenshots/not_matched.png)
+![](./screenshots/back_to_original.png)
