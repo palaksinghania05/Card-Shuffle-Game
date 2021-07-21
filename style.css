@@ -33,13 +33,13 @@ h1{
     transition: transform 0.3s;
     cursor: pointer;
 }
-.card:active{
-    transform: scale(0.95);
-    transition: transform 0.2s ease-in-out;
-}
 .card.flip{
     transform: rotateY(180deg);
     cursor: pointer;
+}
+.card:active{
+    transform: scale(0.95);
+    transition: transform 0.2s ease-in-out;
 }
 .frontSide, .backSide{
     background-color:bisque;
