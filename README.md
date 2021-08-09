@@ -11,7 +11,7 @@ A basic memory game in which the trick is to remember which cards are where.
 
 2. Move to project directory.
 
-3. Open mainGame.html with Chrome or any browser.
+3. Open index.html with Chrome or any browser.
 
 4. Start Playing.
 
